@@ -6,6 +6,7 @@
 
 &nbsp;
 <div>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=arfernanda&show_icons=true">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfernanda&layout=compact">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=arfernanda">
+<br>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arfernanda">
 </div>
